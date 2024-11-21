@@ -10,7 +10,12 @@ Part C: Simulates a hypothetical 3D flight path for Apollo 13, incorporating the
 
 Data:
 
-Part A: I used two different books to gather my data for this section. Those two books are: Apollo 13 by Jim Lovell, who served as Commander of this flight and coauthor Jeffrey Kluger. the other book is A Man on the Moon: The Voyages of the Apollo Astronauts. In additon to this, I can send you the pages that support my data.
+Part A: I gathered data for this section from two key sources:
+
+Apollo 13 by Jim Lovell, the mission’s Commander, and coauthor Jeffrey Kluger.
+A Man on the Moon: The Voyages of the Apollo Astronauts by Andrew Chaikin.
+
+I can provide the specific pages in the books that support my data if needed.
 
 Part B: Hypothetical data
 
