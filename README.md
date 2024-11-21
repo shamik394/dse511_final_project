@@ -23,9 +23,9 @@ Part C: hypothetical data
 
 Approach: 
 
-Part A: Visualized the timelines of integral NASA missions, including Friendship 7, Gemini IV, and Apollo 11, highlighting their launch dates, durations, and key milestones.
+Part A: 
 
-Part B: Designed a simplified 3D flight path for Apollo 8, illustrating its critical mission phases, including Earth orbit, trans-lunar trajectory, lunar orbit, and the return to Earth.
+Part B: 
 
-Part C: Simulated a hypothetical 3D flight path for Apollo 13, incorporating its trans-lunar trajectory, lunar approach, and the Service Module explosion event, which dramatically altered the mission's course.
+Part C: 
 
