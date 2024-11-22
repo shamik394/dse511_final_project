@@ -8,7 +8,7 @@ Problem:
 
 The breakdown:
 
-Part A: I visualized a timeline of key NASA missions, including Friendship 7 , Gemini IV, and Apollo 11.
+Part A: Visualized a timeline of key NASA missions, including Friendship 7 , Gemini IV, and Apollo 11.
 
 Part B: Creates a simplified, hypothetical 3D flight path for Apollo 8, illustrating its Earth orbit, trans-lunar trajectory, lunar orbit, and return to Earth.
 
@@ -16,13 +16,21 @@ Part C: Simulates a hypothetical 3D flight path for Apollo 13, incorporating the
 
 Data:
 
-Part A: I gathered data for this section from two key sources:
+Part A: I gathered data from multiple different sources for the three parts:
+
+- Friendship 7: https://www.nasa.gov/history/friendship7/#:~:text=Friendship%207%20%2D%20Home,to%20circle%20Earth%20three%20times.
+- Gemini IV: https://airandspace.si.edu/collection-objects/hatch-right-gemini-iv/nasm_A19670209004#:~:text=On%20June%203%2C%201965%2C%20a,and%20Edward%20White%20into%20orbit.
+- Apollo 11: https://www.nasa.gov/mission/apollo-11/#:~:text=Apollo%2011%20on%20NASA%2B,Moon%2C%20splashdown%2C%20and%20more.
+
+Note to Dr. Peterson: The two books listed below provide launch dates and other important details only for the manned Apollo missions (Apollo 7–17).
 
 - Apollo 13 by Jim Lovell, the mission’s Commander, and coauthor Jeffrey Kluger. 
 
--  A Man on the Moon: The Voyages of the Apollo Astronauts by Andrew Chaikin.
+- A Man on the Moon: The Voyages of the Apollo Astronauts by Andrew Chaikin.
 
-I can provide the specific pages in the books that support my data if needed.
+In the book "Apollo 13", the launch date for Apollo 11 can be found on page 370.
+
+In the book"A Man on the Moon: The Voyages of the Apollo Astronauts", the launch date for Apollo 11 can be found on page 598.
 
 Part B: Hypothetical data
 
