@@ -21,7 +21,8 @@ Part A: I gathered data for this section from two key sources:
 - Apollo 13 by Jim Lovell, the mission’s Commander, and coauthor Jeffrey Kluger. 
 
 -  A Man on the Moon: The Voyages of the Apollo Astronauts by Andrew Chaikin.
--  I can provide the specific pages in the books that support my data if needed.
+
+I can provide the specific pages in the books that support my data if needed.
 
 Part B: Hypothetical data
 
