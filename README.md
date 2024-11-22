@@ -18,11 +18,10 @@ Data:
 
 Part A: I gathered data for this section from two key sources:
 
-Note 1: Apollo 13 by Jim Lovell, the mission’s Commander, and coauthor Jeffrey Kluger. 
+- Apollo 13 by Jim Lovell, the mission’s Commander, and coauthor Jeffrey Kluger. 
 
-Note 2: A Man on the Moon: The Voyages of the Apollo Astronauts by Andrew Chaikin.
-
-Note 3: I can provide the specific pages in the books that support my data if needed.
+-  A Man on the Moon: The Voyages of the Apollo Astronauts by Andrew Chaikin.
+-  I can provide the specific pages in the books that support my data if needed.
 
 Part B: Hypothetical data
 
