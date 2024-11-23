@@ -66,6 +66,14 @@ Part C:
 
   For Part C, I simulated a hypothetical 3D flight path for Apollo 13. The trans-lunar trajectory and return path included a critical event: the Service Module explosion, marked along the trajectory to emphasize its dramatic course correction. The visualization provided a clear depiction of this pivotal mission's challenges.
 
+  Additinal Information - what each uploaded file contains?
+
+  Final_Project_DSE_511.ipynb - This file includes all three parts for this final project and is completely written in python. 
+
+  Part_a_in_r.pdf - This PDF file contains the output of my R code. I'm comparing two programming languages, R and Python, to determine which produces visually appealing data representations. The R visualization is more aesthetically pleasing, while the Python version is simpler but includes a color key to clarify what each color represents for the reader.
+
+  DSE_511_Part_a_in_r. R - This .r.rft file contains my R code which help me produce the file name "Part_a_in_r.pdf". 
+
 
 
   
