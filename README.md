@@ -12,7 +12,7 @@ Part A: Visualized a timeline of key NASA missions, including Friendship 7 , Gem
 
 Part B: Creates a simplified, hypothetical 3D flight path for Apollo 8, illustrating its Earth orbit, trans-lunar trajectory, lunar orbit, and return to Earth.
 
-Part C: Simulates a hypothetical 3D flight path for Apollo 13, incorporating the trans-lunar trajectory, lunar approach, and the critical Service Module (SM) explosion event.
+Part C: Simulates a hypothetical 3D flight path for Apollo 13, incorporating the trans-lunar trajectory, lunar approach, and the critical Service Module (SM) explosion event which happened 80,000 km from the Moon.
 
 Data:
 
