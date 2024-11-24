@@ -1,6 +1,6 @@
 # dse511_final_project_sb
 
-Problem:
+1. Problem:
 
   Ever since fifth or sixth grade, I’ve been captivated by the wonders of space flight. Back then, I dreamed of becoming an astronaut, though I didn’t yet grasp the immense risks involved or the sheer difficulty of being selected for NASA’s Astronaut Corps. In sixth grade—which now feels like a lifetime ago—I was given an assignment to document the names of all the manned Apollo missions, their crews, and their historical significance. That assigment opened a door to a lifelong fascination. I poured over the stories of the Mercury Seven astronauts, the ten Gemini missions, and all eleven Apollo missions (from Apollo 1 and Apollo 7 through Apollo 17). My curiosity was fueled by Alan Dyer’s book Mission to the Moon, which brought these incredible achievements to life.
 
@@ -14,7 +14,7 @@ Part B: Creates a simplified, hypothetical 3D flight path for Apollo 8, illustra
 
 Part C: Simulates a hypothetical 3D flight path for Apollo 13, incorporating the trans-lunar trajectory, lunar approach, and the critical Service Module (SM) explosion event which happened 80,000 km from the Moon.
 
-Data:
+2. Data:
 
 Part A: I gathered data from multiple different sources for the three parts:
 
@@ -36,7 +36,7 @@ Part B: Hypothetical data!
 
 Part C: hypothetical data!
 
-Approach: 
+3. Approach: 
 
 Part A: For Part A, I created a timeline visualization of key NASA missions: Mercury (Friendship 7), Gemini IV, and Apollo 11. The approach involved the following steps:
 
@@ -66,7 +66,7 @@ Part C:
 
   For Part C, I simulated a hypothetical 3D flight path for Apollo 13. The trans-lunar trajectory and return path included a critical event: the Service Module explosion, marked along the trajectory to emphasize its dramatic course correction. The visualization provided a clear depiction of this pivotal mission's challenges.
 
-  Additinal Information - what each uploaded file contains?
+  4. Additinal Information - what each uploaded file contains?
 
   - Final_Project_DSE_511.ipynb - This file includes all three parts for this final project and is completely written in python. 
 
