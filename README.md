@@ -22,7 +22,7 @@ Part A: I gathered data from multiple different sources for the three parts:
 - Gemini IV: https://airandspace.si.edu/collection-objects/hatch-right-gemini-iv/nasm_A19670209004#:~:text=On%20June%203%2C%201965%2C%20a,and%20Edward%20White%20into%20orbit.
 - Apollo 11: https://www.nasa.gov/mission/apollo-11/#:~:text=Apollo%2011%20on%20NASA%2B,Moon%2C%20splashdown%2C%20and%20more.
 
-Note to Dr. Peterson: The two books listed below provide launch dates and other important details only for the manned Apollo missions (Apollo 7–17).
+Note to Dr. Peterson: The two books listed below provided launch dates and other important details only for the manned Apollo missions (Apollo 7–17).
 
 - Apollo 13 by Jim Lovell, the mission’s Commander, and coauthor Jeffrey Kluger. 
 
@@ -32,9 +32,9 @@ In the book "Apollo 13", the launch date for Apollo 11 can be found on page 370.
 
 In the book"A Man on the Moon: The Voyages of the Apollo Astronauts", the launch date for Apollo 11 can be found on page 598.
 
-Part B: Hypothetical data
+Part B: Hypothetical data!
 
-Part C: hypothetical data
+Part C: hypothetical data!
 
 Approach: 
 
@@ -70,7 +70,7 @@ Part C:
 
   - Final_Project_DSE_511.ipynb - This file includes all three parts for this final project and is completely written in python. 
 
-  - Part_a_in_r.pdf - This PDF file contains the output of my R code. I'm comparing two programming languages, R and Python, to determine which produces visually appealing data representations. The R visualization is more aesthetically pleasing, while the Python version is simpler but includes a color key to clarify what each color represents for the reader. In my mind, the python version is much better for this assignment rather than the one that R produced. 
+  - Part_a_in_r.pdf - This PDF file contains the output of my R code. I'm comparing two programming languages, R and Python, to determine which produces visually appealing data representations. The R visualization is more aesthetically pleasing, while the Python version is simpler but includes a color key to clarify what each color represents for the reader. In my mind, the Python version is much better for this assignment rather than the one that R produced. 
 
   - DSE_511_Part_a_in_r. R - This .r.rft file contains my R code which help me produce the file name "Part_a_in_r.pdf". 
 
